@@ -9921,3 +9921,9 @@ a.text-dark:hover, a.text-dark:focus {
     
   }
 }
+.letra3{
+  @media screen and (max-width: 500px){
+    font-size:25px;
+    
+  }
+}
